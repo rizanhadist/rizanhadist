@@ -1,4 +1,4 @@
-<h2 align=left">Hi 👋, I'm rizanhadist</h2>
+<h2 align=left">Halooo 👋</h2>
 <h3 align="left">Dart & Flutter enthusias</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizanhadist&label=Profile%20views&color=0e75b6&style=flat" alt="rizanhadist" /> </p>
